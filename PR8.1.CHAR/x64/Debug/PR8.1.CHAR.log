@@ -1,0 +1,4 @@
+﻿  PR8.1.CHAR.cpp
+C:\Student\PR8.1.CHAR\PR8.1.CHAR\PR8.1.CHAR.cpp(10,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Student\PR8.1.CHAR\PR8.1.CHAR\PR8.1.CHAR.cpp(25,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  PR8.1.CHAR.vcxproj -> C:\Student\PR8.1.CHAR\x64\Debug\PR8.1.CHAR.exe
